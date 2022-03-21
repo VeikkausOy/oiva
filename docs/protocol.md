@@ -140,7 +140,6 @@ Example: `+000107.08` for 107 Euros and 8 cents.
 - `13`: Päivän Pari
 - `14`: Supertripla
 - `15`: Päivän Trio
-- `16`: Pahviarpa
 - `18`: Keno
 - `22`: Eurojackpot
 - `27`: Lomatonni
