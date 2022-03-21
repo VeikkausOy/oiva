@@ -41,6 +41,14 @@ DE-9 cables will be used for data transfer.
 
 Serial port connectors mounted on terminal are male. Most serial port connectors mounted on cash registers are also male.
 
+Veikkaus´ Elite-S betting terminal connector is type D-9 female. PC end connector is usually D-9 female for serial port. Signal wires must ‘cross connected’. 
+Cable connections are: 
+D-9  D9 
+2 3 
+3 2 
+4 4 
+5 5 
+6 6
 
 Communication Protocol
 -------------------------------------------------------------------------------
