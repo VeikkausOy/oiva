@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const path = require('path')
-const SerialPort = require('serialport')
+const { SerialPort } = require('serialport')
 const { program, Option } = require('commander')
 const { openSerialPort, waitForLoopbackData, dataPresentation } = require('./lib/oiva/serial-port')
 const { oivaMessages, resolveOivaMessages, oivaCalculatedTotalMessage } = require('./lib/oiva/messages')

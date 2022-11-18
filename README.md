@@ -26,6 +26,10 @@ In order to use the simulator, first install the version of Node.js specified in
 
     nvm install
 
+If using MacOs with M1 chip, before `npm install`, you need to install some dependecies. Example use brew (https://brew.sh/):
+
+    brew install pkg-config cairo pango libpng jpeg giflib librsvg
+
 Then install the `npm` dependencies:
 
     npm install
